@@ -68,6 +68,6 @@ pip3 install natten==0.17.1+torch220cu118 -f https://shi-labs.com/natten/wheels/
 
 ## Acknowledgment
 
-We think a lot for their nice sharing, including [DRSformer](https://github.com/cschenxiang/DRSformer?tab=readme-ov-file), [AirNet](https://github.com/XLearning-SCU/2022-CVPR-AirNet), [Transweather](https://github.com/jeya-maria-jose/TransWeather), and [Histoformer](https://github.com/sunshangquan/Histoformer/tree/main).
+We think a lot for their nice sharing, including [DRSformer](https://github.com/cschenxiang/DRSformer?tab=readme-ov-file), [AirNet](https://github.com/XLearning-SCU/2022-CVPR-AirNet), [Transweather](https://github.com/jeya-maria-jose/TransWeather), [Histoformer](https://github.com/sunshangquan/Histoformer/tree/main), and [BasicSR](https://github.com/XPixelGroup/BasicSR).
 
 
