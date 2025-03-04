@@ -2,7 +2,7 @@
 
 # DSwinIR: Learning a Deformable Sliding Window Transformer for Image Restoration
 
-Anonymous CVPR submission
+Anonymous submission
 
 </div>
 
