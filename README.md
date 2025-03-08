@@ -1,6 +1,6 @@
 <div align="center">
 
-# DSwinIR: Learning a Deformable Sliding Window Transformer for Image Restoration
+# DSwinIR: Content-Aware Transformer for All-in-one Image Restoration
 
 Anonymous submission
 
