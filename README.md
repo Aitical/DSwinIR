@@ -1,8 +1,11 @@
 <div align="center">
 
-# DSwinIR: Content-Aware Transformer for All-in-one Image Restoration
+# Content-Aware Transformer for All-in-one Image Restoration
 
-Anonymous submission
+[Gang Wu](https://scholar.google.com/citations?user=JSqb7QIAAAAJ), [Junjun Jiang](http://homepage.hit.edu.cn/jiangjunjun), [Kui Jiang](https://homepage.hit.edu.cn/jiangkui), and [Xianming Liu](http://homepage.hit.edu.cn/xmliu)
+
+[AIIA Lab](https://aiialabhit.github.io/team/), Harbin Institute of Technology.
+
 
 </div>
 
