@@ -24,6 +24,18 @@
 
 
 ### All-in-one Image Restoration
+
+
+|Three-Task| Rain | Haze | n15| n15| n50|
+|---|---|---|---|---|---| 
+|DSwinIR|[Download](https://drive.google.com/file/d/1Djxn_lmiHQxKmAISvwVjHok_Pyvpk9z9/view?usp=drive_link)|[Download](https://drive.google.com/file/d/1qp8-o8v0kCvDjFZVcvOYzl7vVLDeXZ1a/view?usp=drive_link)|[Download](https://drive.google.com/file/d/1PZWUX_4-JS7L-GXySRira2vwygdPFpXV/view?usp=sharing)|[Download](https://drive.google.com/file/d/1xCEfy8W-nUwvn5eFO5BFSfEWUxTXvFLm/view?usp=drive_link)|[Download](https://drive.google.com/file/d/1te6KZA789jXTW_DlQEAGKsTCoPBucRDg/view?usp=drive_link)|
+
+|WeatherBench| Rain| Haze| Snow|
+|---|---|---|---| 
+|DSwinIR|[Download](https://drive.google.com/file/d/1z11FkQ7rY3AYpQyv3IdNWyD8ZX4PJylK/view?usp=drive_link)|[Download](https://drive.google.com/file/d/1vSjVgUgYM77K-lcekgWFtMfmfbmeghap/view?usp=drive_link)|[Download](https://drive.google.com/file/d/1YeeWm88cZzpZylffmzGCQISfXg5wDlkT/view?usp=sharing)|
+
+
+
 |AllWeather| Outdoor-Rain | RainDrop | Snow-L| Snow-S|
 |---|---|---|---|---|
 |DSwinIR| [Download](https://drive.google.com/drive/folders/1V6V4jcnyUeUE_iqF0JDbQsT0Fd4Dm-ee?usp=sharing)|[Download](https://drive.google.com/drive/folders/1V6V4jcnyUeUE_iqF0JDbQsT0Fd4Dm-ee?usp=sharing)|[Download](https://drive.google.com/drive/folders/1V6V4jcnyUeUE_iqF0JDbQsT0Fd4Dm-ee?usp=sharing)|[Download](https://drive.google.com/drive/folders/1V6V4jcnyUeUE_iqF0JDbQsT0Fd4Dm-ee?usp=sharing)|
